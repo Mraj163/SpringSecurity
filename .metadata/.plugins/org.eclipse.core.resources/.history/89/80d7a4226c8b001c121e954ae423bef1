@@ -1,0 +1,5 @@
+package com.kewal.springsecuritybasic.controller;
+
+public class WelcomeController {
+
+}
